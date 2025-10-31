@@ -1,0 +1,2 @@
+add_subdirectory(Skywatcher)
+add_subdirectory(Target)
